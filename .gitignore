@@ -12,7 +12,14 @@
 *.so.*
 *.dylib
 
+# OS X debug stuff
+*.dSYM
+
 # Executables
 *.exe
 *.out
 *.app
+bin/
+
+# Other
+Makefile.alt
